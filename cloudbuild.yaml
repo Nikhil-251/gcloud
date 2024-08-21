@@ -1,4 +1,1 @@
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/gcp-devops-433010/myrunimage:v1.0', '.']
-  options:
-    logging: CLOUD_LOGGING_ONLY
+
